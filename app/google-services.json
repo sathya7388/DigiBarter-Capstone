@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "272579538963",
+    "firebase_url": "https://test-chat-80058.firebaseio.com",
+    "project_id": "test-chat-80058",
+    "storage_bucket": "test-chat-80058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272579538963:android:658a0e3ccc3409b6814fe6",
+        "android_client_info": {
+          "package_name": "com.example.digibarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272579538963-n860n4bkogv6djdg2ku3krnorj887h5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digibarter",
+            "certificate_hash": "ce507abbdf05202f55156cbab60338016053d291"
+          }
+        },
+        {
+          "client_id": "272579538963-imo7erhli4q603gfl7da8du5qsg9bd7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB66-ueGLFNn4uwFEHAwNAaHSvW0nmjkNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272579538963-imo7erhli4q603gfl7da8du5qsg9bd7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
